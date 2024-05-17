@@ -1,0 +1,6 @@
+requests
+colorama
+termcolor
+tqdm
+bs4
+mechanize
